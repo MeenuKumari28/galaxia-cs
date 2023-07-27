@@ -1,15 +1,14 @@
-;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
-light: #faebd7
-dark: #240002
+light: #f5f7fb
+dark: #f5f7fb
 
 -- ftd.color step-1-:
-light: #e3bc81
-dark: #550605
+light: #ffffff
+dark: #ffffff
 
 -- ftd.color step-2-:
-light: #faad7b
-dark: #3e0e11
+light: #0f42cf
+dark: #0f42cf
 
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
@@ -27,20 +26,20 @@ overlay: $overlay-
 code: $code-
 
 -- ftd.color border-:
-light: #222222
-dark: #FFFFFF
+light: #d6d6d6
+dark: #d6d6d6
 
 -- ftd.color border-strong-:
 light: #D9D9D9
 dark: #3e0306
 
 -- ftd.color text-:
-light: #707070
-dark: #D9D9D9
+light: #363636
+dark: #363636
 
 -- ftd.color text-strong-:
-light: #333333
-dark: #FFFFFF
+light: #000000
+dark: #000000
 
 -- ftd.color shadow-:
 light: #6f0100
@@ -51,8 +50,8 @@ light: #393939
 dark: #393939
 
 -- ftd.color cta-primary-base-:
-light: #a53006
-dark: #a53006
+light: #0f42cf1a
+dark: #0f42cf1a
 
 -- ftd.color cta-primary-hover-:
 light: #8c2702
@@ -75,8 +74,8 @@ light: #a53006
 dark: #a53006
 
 -- ftd.color cta-primary-text-:
-light: #feffff
-dark: #feffff
+light: #0f42cf
+dark: #0f42cf
 
 -- ftd.color cta-primary-text-disabled-:
 light: #65b693
